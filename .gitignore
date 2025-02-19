@@ -1,3 +1,4 @@
 Thumbs.db
 .env
 node_modules/build/
+.git
